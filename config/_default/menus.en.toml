@@ -1,0 +1,42 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "about.md"
+identifier = "y0AO7YDljf"
+weight = 1
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "1O7ii2QBwC"
+weight = 3
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "tPPTsztfP7"
+weight = 2
+
+[[main]]
+pre = "bluesky"
+url = "https://bsky.app/profile/flyer95.com"
+identifier = "wfuDXEiqoH"
+weight = 5
+
+[[main]]
+pre = "ko-fi"
+url = "https://ko-fi.com/flyer95"
+identifier = "rPKz76G9AM"
+weight = 8
+
+[[main]]
+pre = "itch-io"
+url = "https://flyer-95.itch.io/"
+identifier = "mXAHxDpY8x"
+weight = 7
+
+
+[[footer]]
+none = "none"

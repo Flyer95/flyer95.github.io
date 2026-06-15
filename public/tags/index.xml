@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Flyer_95</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Flyer_95</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Flyer_95</copyright>
+    <lastBuildDate>Sun, 14 Jun 2026 22:36:04 -0400</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3D</title>
+      <link>https://example.org/tags/3d/</link>
+      <pubDate>Sun, 14 Jun 2026 22:36:04 -0400</pubDate>
+      
+      <guid>https://example.org/tags/3d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Godot</title>
+      <link>https://example.org/tags/godot/</link>
+      <pubDate>Sun, 14 Jun 2026 22:36:04 -0400</pubDate>
+      
+      <guid>https://example.org/tags/godot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unreal Engine 5</title>
+      <link>https://example.org/tags/unreal-engine-5/</link>
+      <pubDate>Sun, 14 Jun 2026 15:45:08 -0400</pubDate>
+      
+      <guid>https://example.org/tags/unreal-engine-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://example.org/tags/music/</link>
+      <pubDate>Fri, 24 Oct 2025 11:54:05 +0000</pubDate>
+      
+      <guid>https://example.org/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://example.org/tags/vr/</link>
+      <pubDate>Sat, 14 Jun 2025 22:36:25 -0400</pubDate>
+      
+      <guid>https://example.org/tags/vr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Yukon</title>
+      <link>https://example.org/tags/project-yukon/</link>
+      <pubDate>Tue, 12 Nov 2024 16:04:04 +0000</pubDate>
+      
+      <guid>https://example.org/tags/project-yukon/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

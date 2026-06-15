@@ -1,0 +1,17 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Flyer_95"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Profile_Transparent.png"
+description = "Homepage for Flyer_95 projects"
+
+["params.author"]
+name = "Flyer_95"
+image = "Flyer95_Profile.jpeg"

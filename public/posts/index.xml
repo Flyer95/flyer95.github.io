@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Flyer_95</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Flyer_95</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Flyer_95</copyright>
+    <lastBuildDate>Mon, 15 Dec 2025 15:25:04 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Favorite Albums of 2025</title>
+      <link>https://example.org/posts/favoritealbums2025/</link>
+      <pubDate>Mon, 15 Dec 2025 15:25:04 +0000</pubDate>
+      
+      <guid>https://example.org/posts/favoritealbums2025/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/favoritealbums2025/featured.png" />
+    </item>
+    
+    <item>
+      <title>iLove using an iPod</title>
+      <link>https://example.org/posts/iloveipod/</link>
+      <pubDate>Fri, 24 Oct 2025 11:54:05 +0000</pubDate>
+      
+      <guid>https://example.org/posts/iloveipod/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/iloveipod/featured.png" />
+    </item>
+    
+    <item>
+      <title>Curse of Customization</title>
+      <link>https://example.org/posts/curseofcustomization/</link>
+      <pubDate>Thu, 07 Aug 2025 11:46:04 +0000</pubDate>
+      
+      <guid>https://example.org/posts/curseofcustomization/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/curseofcustomization/featured.png" />
+    </item>
+    
+    <item>
+      <title>Project Yukon: Developing A Style</title>
+      <link>https://example.org/posts/py-style/</link>
+      <pubDate>Tue, 12 Nov 2024 16:04:04 +0000</pubDate>
+      
+      <guid>https://example.org/posts/py-style/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/py-style/featured.png" />
+    </item>
+    
+    <item>
+      <title>Project Yukon: Overview</title>
+      <link>https://example.org/posts/py-overview/</link>
+      <pubDate>Tue, 12 Nov 2024 15:55:04 +0000</pubDate>
+      
+      <guid>https://example.org/posts/py-overview/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/py-overview/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

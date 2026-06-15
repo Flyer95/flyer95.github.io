@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot on Flyer_95</title>
+    <link>https://example.org/tags/godot/</link>
+    <description>Recent content in Godot on Flyer_95</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Flyer_95</copyright>
+    <lastBuildDate>Sun, 14 Jun 2026 22:36:04 -0400</lastBuildDate><atom:link href="https://example.org/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Light in the Dark</title>
+      <link>https://example.org/projects/light-in-the-dark/</link>
+      <pubDate>Sun, 14 Jun 2026 22:36:04 -0400</pubDate>
+      
+      <guid>https://example.org/projects/light-in-the-dark/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/light-in-the-dark/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
