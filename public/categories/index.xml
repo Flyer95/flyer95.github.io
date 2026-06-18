@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Flyer_95</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Flyer_95</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Flyer_95</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 22:36:04 -0400</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 22:36:04 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video Game</title>
-      <link>https://example.org/categories/video-game/</link>
+      <link>http://localhost:1313/categories/video-game/</link>
       <pubDate>Sun, 14 Jun 2026 22:36:04 -0400</pubDate>
       
-      <guid>https://example.org/categories/video-game/</guid>
+      <guid>http://localhost:1313/categories/video-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://example.org/categories/music/</link>
+      <link>http://localhost:1313/categories/music/</link>
       <pubDate>Mon, 15 Dec 2025 15:25:04 +0000</pubDate>
       
-      <guid>https://example.org/categories/music/</guid>
+      <guid>http://localhost:1313/categories/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Random</title>
-      <link>https://example.org/categories/random/</link>
+      <link>http://localhost:1313/categories/random/</link>
       <pubDate>Thu, 07 Aug 2025 11:46:04 +0000</pubDate>
       
-      <guid>https://example.org/categories/random/</guid>
+      <guid>http://localhost:1313/categories/random/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Dev</title>
-      <link>https://example.org/categories/game-dev/</link>
+      <link>http://localhost:1313/categories/game-dev/</link>
       <pubDate>Tue, 12 Nov 2024 16:04:04 +0000</pubDate>
       
-      <guid>https://example.org/categories/game-dev/</guid>
+      <guid>http://localhost:1313/categories/game-dev/</guid>
       <description></description>
       
     </item>

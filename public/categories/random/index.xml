@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random on Flyer_95</title>
-    <link>https://example.org/categories/random/</link>
+    <link>http://localhost:1313/categories/random/</link>
     <description>Recent content in Random on Flyer_95</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Flyer_95</copyright>
-    <lastBuildDate>Thu, 07 Aug 2025 11:46:04 +0000</lastBuildDate><atom:link href="https://example.org/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Aug 2025 11:46:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/random/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Curse of Customization</title>
-      <link>https://example.org/posts/curseofcustomization/</link>
+      <link>http://localhost:1313/posts/curseofcustomization/</link>
       <pubDate>Thu, 07 Aug 2025 11:46:04 +0000</pubDate>
       
-      <guid>https://example.org/posts/curseofcustomization/</guid>
+      <guid>http://localhost:1313/posts/curseofcustomization/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/curseofcustomization/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/curseofcustomization/featured.png" />
     </item>
     
   </channel>

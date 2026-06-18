@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unreal Engine 5 on Flyer_95</title>
-    <link>https://example.org/tags/unreal-engine-5/</link>
+    <link>http://localhost:1313/tags/unreal-engine-5/</link>
     <description>Recent content in Unreal Engine 5 on Flyer_95</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Flyer_95</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 15:45:08 -0400</lastBuildDate><atom:link href="https://example.org/tags/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 15:45:08 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Project Yukon</title>
-      <link>https://example.org/projects/project-yukon/</link>
+      <link>http://localhost:1313/projects/project-yukon/</link>
       <pubDate>Sun, 14 Jun 2026 15:45:08 -0400</pubDate>
       
-      <guid>https://example.org/projects/project-yukon/</guid>
+      <guid>http://localhost:1313/projects/project-yukon/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/project-yukon/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/project-yukon/featured.png" />
     </item>
     
     <item>
       <title>Transfusion</title>
-      <link>https://example.org/projects/transfusion/</link>
+      <link>http://localhost:1313/projects/transfusion/</link>
       <pubDate>Sat, 14 Jun 2025 22:36:25 -0400</pubDate>
       
-      <guid>https://example.org/projects/transfusion/</guid>
+      <guid>http://localhost:1313/projects/transfusion/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/transfusion/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/transfusion/featured.jpg" />
     </item>
     
   </channel>
