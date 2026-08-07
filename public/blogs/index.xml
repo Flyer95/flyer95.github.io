@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Flyer_95</title>
+		<link>http://localhost:1313/blogs/</link>
+		<description>Recent content in Posts on Flyer_95</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Favorite Albums of 2025</title>
+				<link>http://localhost:1313/blogs/favoritealbums2025/</link>
+				<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/favoritealbums2025/</guid>
+				<description>&lt;p&gt;In 2025, I listened to music. A lot of music. These are my favorite collections of musics by artists from (or that I first listened to) this year. There is no specific order to the list, other than maybe in order from newest to oldest find.&lt;/p&gt;&#xA;&lt;h2 id=&#34;albums-that-came-out-in-2025&#34;&gt;Albums that came out in 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Albums that came out in 2025 that I love&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;baby-blue---kyle-benson&#34;&gt;Baby Blue - Kyle Benson&lt;/h3&gt;&#xA;&lt;p&gt;To get it out of the way first, I know Kyle Benson personally. I was a frequent actor in his short action-film YouTube videos, repeatedly being the character that ended up dead at the end. He dabbled in music a bit way back then too so it wasn&amp;rsquo;t surprising to hear that he&amp;rsquo;s been making music himself and I really enjoy it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iLove using an iPod</title>
+				<link>http://localhost:1313/blogs/iloveipod/</link>
+				<pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/iloveipod/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been using an iPod Classic for the last few months for music and it&amp;rsquo;s been surprisingly eye-opening.&lt;/p&gt;&#xA;&lt;p&gt;Earlier this year, I made it a bit of a goal of mine to move off of streaming services for the majority of my music listening. Instead of using Tidal, I&amp;rsquo;ve been buying CDs and vinyls to rip or download from in order to build up a music collection that&amp;rsquo;s mine.&lt;/p&gt;&#xA;&lt;h3 id=&#34;listening-on-drives&#34;&gt;Listening on Drives&lt;/h3&gt;&#xA;&lt;p&gt;I mainly listen to music on my computer and when I&amp;rsquo;m driving. My car&amp;rsquo;s getting close to being two decades old so it&amp;rsquo;s go a CD player and an aux port. And given the death of the aux port in modern phones, I&amp;rsquo;ve had a Bluetooth receiver connected to the aux port to play music from Tidal of of my phone.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Curse of Customization</title>
+				<link>http://localhost:1313/blogs/curseofcustomization/</link>
+				<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/curseofcustomization/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;NOTE: This blog post was written when I was using Bear Blog for this blog.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I love customizing stuff. It&amp;rsquo;s what makes your stuff different from others and also acts as a form of expression. Being really into programming and computers, I think the majority of my &amp;ldquo;customization drive&amp;rdquo; can be seen in how I customize my devices.&lt;/p&gt;&#xA;&lt;p&gt;When I was in high school, I asked my mom if I could swap my iPhone for the Android phone my brother was going to receive. The iPhone was faster and more recent than the android phone, but I knew I could make apps for it, side-load other&amp;rsquo;s applications, and customize it far more than Apple would let you, at least at the time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Project Yukon: Developing A Style</title>
+				<link>http://localhost:1313/blogs/py-style/</link>
+				<pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/py-style/</guid>
+				<description>&lt;p&gt;One thing that has been a constant iterative proccess has been determining the visual design of Project Yukon. Even now I am still tweaking and modifying the visual style to make something that’s unique while also looks good but I’ve made a bunch of progress since I started on this project.&lt;/p&gt;&#xA;&lt;p&gt;For example, here is a super early version of what Project Yukon first looked like.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/4ZMY38C7/ruins.gif&#34; alt=&#34;A gif of Juniper sitting on a piece of temple ruins next to a river.&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Project Yukon: Overview</title>
+				<link>http://localhost:1313/blogs/py-overview/</link>
+				<pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/py-overview/</guid>
+				<description>&lt;h1 id=&#34;a-new-beginning&#34;&gt;A New Beginning&lt;/h1&gt;&#xA;&lt;p&gt;Originally, I started posting “devlog-like” posts on a Discord server for the game. However, as time has gone on, leaving all of my development logs and messages on a single platform I don’t have complete control over hasn’t seemed like a good idea. I would hate for all the development notes and such to be locked on Discord or worse be lost if the server or Discord itself goes away. Going forward, everything Project Yukon related on the game will be stored here. Other kinds of posts (YouTube videos and stuff hosted on other sites) will have their own posts here so everything can be found in one place.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
