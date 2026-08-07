@@ -32,8 +32,8 @@ markup:
 Menus:
   main:
     - identifier: blogs
-      name: Posts
-      title: Posts
+      name: Blogs
+      title: Blogs
       url: /blogs
       weight: 2
     - identifier: projects

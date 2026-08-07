@@ -5,7 +5,7 @@ tags:
   - Music
 image: ""
 summary: ""
-toc:
+toc: false
 ---
 
 I've been using an iPod Classic for the last few months for music and it's been surprisingly eye-opening.

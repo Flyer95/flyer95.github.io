@@ -6,7 +6,7 @@ tags:
   - Game Dev
 image: "https://i.ibb.co/HfG3Pq77/yukon-lake.png"
 description: ""
-toc:
+toc: false
 ---
 
 # A New Beginning

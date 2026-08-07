@@ -5,7 +5,7 @@ tags:
   - Random
 image: ""
 summary: ""
-toc:
+toc: false
 ---
 
 > NOTE: This blog post was written when I was using Bear Blog for this blog.
