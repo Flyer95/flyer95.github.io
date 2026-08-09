@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/random/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>On Gen Ai</title>
+				<link>http://localhost:1313/posts/on-gen-ai/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/on-gen-ai/</guid>
+				<description>On generative AI</description>
+			</item>
+			<item>
 				<title>Favorite Albums of 2025</title>
-				<link>http://localhost:1313/blogs/favoritealbums2025/</link>
+				<link>http://localhost:1313/posts/favoritealbums2025/</link>
 				<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/favoritealbums2025/</guid>
+				<guid>http://localhost:1313/posts/favoritealbums2025/</guid>
 				<description>&lt;p&gt;In 2025, I listened to music. A lot of music. These are my favorite collections of musics by artists from (or that I first listened to) this year. There is no specific order to the list, other than maybe in order from newest to oldest find.&lt;/p&gt;&#xA;&lt;h2 id=&#34;albums-that-came-out-in-2025&#34;&gt;Albums that came out in 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Albums that came out in 2025 that I love&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;baby-blue---kyle-benson&#34;&gt;Baby Blue - Kyle Benson&lt;/h3&gt;&#xA;&lt;p&gt;To get it out of the way first, I know Kyle Benson personally. I was a frequent actor in his short action-film YouTube videos, repeatedly being the character that ended up dead at the end. He dabbled in music a bit way back then too so it wasn&amp;rsquo;t surprising to hear that he&amp;rsquo;s been making music himself and I really enjoy it.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Curse of Customization</title>
-				<link>http://localhost:1313/blogs/curseofcustomization/</link>
+				<link>http://localhost:1313/posts/curseofcustomization/</link>
 				<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/curseofcustomization/</guid>
+				<guid>http://localhost:1313/posts/curseofcustomization/</guid>
 				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;NOTE: This blog post was written when I was using Bear Blog for this blog.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I love customizing stuff. It&amp;rsquo;s what makes your stuff different from others and also acts as a form of expression. Being really into programming and computers, I think the majority of my &amp;ldquo;customization drive&amp;rdquo; can be seen in how I customize my devices.&lt;/p&gt;&#xA;&lt;p&gt;When I was in high school, I asked my mom if I could swap my iPhone for the Android phone my brother was going to receive. The iPhone was faster and more recent than the android phone, but I knew I could make apps for it, side-load other&amp;rsquo;s applications, and customize it far more than Apple would let you, at least at the time.&lt;/p&gt;</description>
 			</item>
 	</channel>

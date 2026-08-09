@@ -15,16 +15,16 @@
 			<atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Favorite Albums of 2025</title>
-				<link>http://localhost:1313/blogs/favoritealbums2025/</link>
+				<link>http://localhost:1313/posts/favoritealbums2025/</link>
 				<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/favoritealbums2025/</guid>
+				<guid>http://localhost:1313/posts/favoritealbums2025/</guid>
 				<description>&lt;p&gt;In 2025, I listened to music. A lot of music. These are my favorite collections of musics by artists from (or that I first listened to) this year. There is no specific order to the list, other than maybe in order from newest to oldest find.&lt;/p&gt;&#xA;&lt;h2 id=&#34;albums-that-came-out-in-2025&#34;&gt;Albums that came out in 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Albums that came out in 2025 that I love&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;baby-blue---kyle-benson&#34;&gt;Baby Blue - Kyle Benson&lt;/h3&gt;&#xA;&lt;p&gt;To get it out of the way first, I know Kyle Benson personally. I was a frequent actor in his short action-film YouTube videos, repeatedly being the character that ended up dead at the end. He dabbled in music a bit way back then too so it wasn&amp;rsquo;t surprising to hear that he&amp;rsquo;s been making music himself and I really enjoy it.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>iLove using an iPod</title>
-				<link>http://localhost:1313/blogs/iloveipod/</link>
+				<link>http://localhost:1313/posts/iloveipod/</link>
 				<pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/iloveipod/</guid>
+				<guid>http://localhost:1313/posts/iloveipod/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;ve been using an iPod Classic for the last few months for music and it&amp;rsquo;s been surprisingly eye-opening.&lt;/p&gt;&#xA;&lt;p&gt;Earlier this year, I made it a bit of a goal of mine to move off of streaming services for the majority of my music listening. Instead of using Tidal, I&amp;rsquo;ve been buying CDs and vinyls to rip or download from in order to build up a music collection that&amp;rsquo;s mine.&lt;/p&gt;&#xA;&lt;h3 id=&#34;listening-on-drives&#34;&gt;Listening on Drives&lt;/h3&gt;&#xA;&lt;p&gt;I mainly listen to music on my computer and when I&amp;rsquo;m driving. My car&amp;rsquo;s getting close to being two decades old so it&amp;rsquo;s go a CD player and an aux port. And given the death of the aux port in modern phones, I&amp;rsquo;ve had a Bluetooth receiver connected to the aux port to play music from Tidal of of my phone.&lt;/p&gt;</description>
 			</item>
 	</channel>

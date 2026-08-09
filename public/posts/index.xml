@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Flyer_95</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on Flyer_95</description>
+		<title>Posts on Flyer_95</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Flyer_95</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>On Gen Ai</title>
 				<link>http://localhost:1313/posts/on-gen-ai/</link>
@@ -42,13 +42,6 @@
 				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;NOTE: This blog post was written when I was using Bear Blog for this blog.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I love customizing stuff. It&amp;rsquo;s what makes your stuff different from others and also acts as a form of expression. Being really into programming and computers, I think the majority of my &amp;ldquo;customization drive&amp;rdquo; can be seen in how I customize my devices.&lt;/p&gt;&#xA;&lt;p&gt;When I was in high school, I asked my mom if I could swap my iPhone for the Android phone my brother was going to receive. The iPhone was faster and more recent than the android phone, but I knew I could make apps for it, side-load other&amp;rsquo;s applications, and customize it far more than Apple would let you, at least at the time.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Project Yukon</title>
-				<link>http://localhost:1313/projects/project-yukon/</link>
-				<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/project-yukon/</guid>
-				<description>UE5 Adventure Game in Blueprints</description>
-			</item>
-			<item>
 				<title>Project Yukon: Developing A Style</title>
 				<link>http://localhost:1313/posts/py-style/</link>
 				<pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
@@ -61,13 +54,6 @@
 				<pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/py-overview/</guid>
 				<description>&lt;h1 id=&#34;a-new-beginning&#34;&gt;A New Beginning&lt;/h1&gt;&#xA;&lt;p&gt;Originally, I started posting “devlog-like” posts on a Discord server for the game. However, as time has gone on, leaving all of my development logs and messages on a single platform I don’t have complete control over hasn’t seemed like a good idea. I would hate for all the development notes and such to be locked on Discord or worse be lost if the server or Discord itself goes away. Going forward, everything Project Yukon related on the game will be stored here. Other kinds of posts (YouTube videos and stuff hosted on other sites) will have their own posts here so everything can be found in one place.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>About</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;Hello! I&amp;rsquo;m Flyer_95 and I do music and game dev and stuff. I&amp;rsquo;ve written music for a lot of game projects me and my friends have worked on, as well as music myself. I also made this site (with weeks of headaches, let me tell you) and do some game development and coding sometimes. I pursue various other creative projects too but they&amp;rsquo;re too inconsistent and/or don&amp;rsquo;t have enough results to share here in anything other than blog posts but hey, at least they will be in blog posts. My main social media is Bluesky, which I sometimes post to.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

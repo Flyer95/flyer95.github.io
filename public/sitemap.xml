@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/favoritealbums2025/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/on-gen-ai/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/random/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/favoritealbums2025/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/music/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/random/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/iloveipod/</loc>
+    <loc>http://localhost:1313/posts/iloveipod/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/curseofcustomization/</loc>
+    <loc>http://localhost:1313/posts/curseofcustomization/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/project-yukon/</loc>
@@ -41,10 +44,10 @@
     <loc>http://localhost:1313/tags/project-yukon/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/py-style/</loc>
+    <loc>http://localhost:1313/posts/py-style/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/py-overview/</loc>
+    <loc>http://localhost:1313/posts/py-overview/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
